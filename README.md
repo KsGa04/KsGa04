@@ -8,7 +8,12 @@
 - **Фреймворки**: React, Django, Flask.
 - **Инструменты**: Git, Docker, VS Code, Postman.
   
-<img align="left" alt="Популярные используемые языки" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsGa04&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=0" /> 
+## Статистика GitHub
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zaid97-kai&show_icons=true)
+--------------------------------------------------------------------
+## Популярные используемые языки
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid97-kai&theme=blue-green)
+
 <br clear="left" />
 
 ## 📈 Что я изучаю сейчас?
