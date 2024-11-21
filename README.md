@@ -9,12 +9,11 @@
 - **Инструменты**: Git, Docker, VS Code, Postman.
   
 ## Статистика GitHub
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zaid97-kai&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KsGa04&show_icons=true)
 --------------------------------------------------------------------
 ## Популярные используемые языки
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid97-kai&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KsGa04&theme=blue-green)
 
-<br clear="left" />
 
 ## 📈 Что я изучаю сейчас?
 - Углубляюсь в **машинное обучение** и **анализ данных**.
