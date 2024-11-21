@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Привет! Добро пожаловать в мой профиль!
 
-<!--
-**KsGa04/KsGa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Ксюша**, и я увлечена разработкой, технологиями и созданием полезных решений. В этом профиле вы найдете мои проекты, навыки и достижения. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Навыки и технологии
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20Django%20%7C%20FastAPI-yellow)
+![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes%20%7C%20AWS-orange)
+![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20MySQL-green)
+![Other](https://img.shields.io/badge/Other-Git%20%7C%20CI/CD%20%7C%20Linux-red)
+
+---
+
+## 📈 Мои навыки и области интересов
+
+```mermaid
+graph TD;
+    Frontend-->React;
+    Frontend-->Vue;
+    Backend-->Node.js;
+    Backend-->Python;
+    Backend-->C#;
+    DevOps-->Docker;
+    Data-->PostgreSQL;
+    Data-->MySQL;
+    Data-->Data_Analysis;
