@@ -19,11 +19,13 @@
 ```mermaid
 graph TD;
     Frontend-->React;
-    Frontend-->Vue;
     Backend-->Node.js;
+    Backend-->JavaScript;
     Backend-->Python;
+    Backend-->Flask;
     Backend-->C#;
     DevOps-->Docker;
     Data-->PostgreSQL;
     Data-->MySQL;
+    Data-->MSSQL;
     Data-->Data_Analysis;
