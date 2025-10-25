@@ -22,6 +22,7 @@
 - Языки и фреймворки:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Pytest](https://img.shields.io/badge/pytest-000000?style=flat-square&logo=pytest&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
   ![Unittest](https://img.shields.io/badge/unittest-2F76B5?style=flat-square)
   ![Requests](https://img.shields.io/badge/requests-6f42c1?style=flat-square)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
